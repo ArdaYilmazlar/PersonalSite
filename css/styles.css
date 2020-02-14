@@ -1,0 +1,56 @@
+/***************************Tag************************/
+body{
+    background-color: #ffffff;
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    line-height: 2;
+}
+
+div{
+    padding: 5%;
+}
+
+h3{
+    margin: 0px;
+}
+
+
+/***************************Classes********************/
+
+.my-picture{
+    border-radius: 50%;
+    float: left;
+}
+
+.name{
+    font-weight: bold;
+    font-style: italic;
+    color: #ffffff;
+}
+
+.name-summary{
+    background-color: #272343;
+    height: 250px;
+}
+
+.summary{
+    color: #ffffff;
+}
+
+.my-skills-div{
+    color: #3282b8;
+    margin: 0px auto;
+    width: 50%;
+}
+
+.skill-row{
+    margin: 0px auto;
+    text-align: left;
+}
+
+.java-img{
+    margin-right: 20px;
+    float: left;
+    width: 200px;
+}
